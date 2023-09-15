@@ -1,6 +1,7 @@
 .home {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
+  align-items: center;
   padding: 4rem;
   padding-top: 8rem;
 }
