@@ -1,0 +1,13 @@
+.footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  background-color: skyblue;
+}
+
+.footer p {
+  margin: 0;
+  padding: 1rem;
+  font-weight: bold;
+}
+

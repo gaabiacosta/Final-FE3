@@ -1,0 +1,23 @@
+.nav {
+  justify-content: space-around;
+  align-items: center;
+  display: flex;
+  padding: 2rem 2rem;
+}
+.position {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  background-color: skyblue;
+}
+
+.nav a {
+  display: inline-block;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 1.2rem;
+  color: black
+}
+.nav a:hover{
+  color: white;
+}
